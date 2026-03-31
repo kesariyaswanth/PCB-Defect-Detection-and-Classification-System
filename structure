@@ -1,0 +1,10 @@
+PCB_Defect_Project/
+│
+├── backend/
+├── frontend/
+├── utils/
+├── models/
+│   └── best_pcb_model.h5
+├── app.py
+├── requirements.txt
+└── README.md
